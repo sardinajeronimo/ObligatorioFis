@@ -1,8 +1,8 @@
-##Requerimientos Del Sistema
+## Requerimientos Del Sistema
 
-##Requerimientos Funcionales:
+## Requerimientos Funcionales:
 
-##Requerimeintos Obligatorios:
+## Requerimeintos Obligatorios:
 	1- Registro de Usuario
 	2-Coneccion bancaria para poder acceder al dinero de la cuenta de uno.(simulado)
 
@@ -12,21 +12,21 @@
 	6- Simulacion de compras y ventas de activos
 	7- Historial de transacciones
 
-##Requerimientos Importantes:
+## Requerimientos Importantes:
 	- Exportar Historial a PDF o excel
 	
 
-##Requerimientos Deseables (no importantes)
+## Requerimientos Deseables (no importantes)
 	- Documentos tipo tutoriales de como invertir
 	- Documentos explicando conceptos clave de inversion
 
-##Requerimientos que no seran posibles
+## Requerimientos que no seran posibles
 	-Dinero real, coneccion real a bancos
 	-Chat de soporte en linea para ayuda
 
 
-##Requerimientos no funcionales:
-	## Must have:
-		- Sistema en Español con conceptos claros.
-		- Usabilidad y accesibilidad (claro para todos)
-		- 
+## Requerimientos no funcionales:
+### Must have:
+	- Sistema en Español con conceptos claros.
+	- Usabilidad y accesibilidad (claro para todos)
+	- 
